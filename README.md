@@ -1,25 +1,16 @@
 ## Hey, Nice to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/kirauit0103">
-  <img align="left" alt="Kira's Facebook" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/facebook.svg" />
+<a href="https://www.facebook.com/nqt290600">
+  <img align="left" alt="Thuan's Facebook" width="22px" src="https://github.com/NQT2906/NQT2906/blob/main/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/kiranguyen0103">
-  <img align="left" alt="Kira's Twitter" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kira0103/">
-  <img align="left" alt="Kira's LinkedIn" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/kira0103">
-  <img align="left" alt="Kira's Reddit" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/reddit.svg" />
-</a>
-<a href="https://open.spotify.com/user/3174npr4lkeotekqxoy7ndcfkxdy">
-  <img align="left" alt="Kira's Spotify" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/spotify.svg" />
+<a href="https://www.linkedin.com/in/nguyenquangthuan2906">
+  <img align="left" alt="Thuan's LinkedIn" width="22px" src="https://github.com/NQT2906/NQT2906/blob/main/icons/linkedin.svg" />
 </a>
 
 <br><br/>
 
 Hi, I'm Kira - the student of the University of Information Technology (UIT). My dream is to become a Full Stack Web Developer. My passion lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <p align="center">
-  <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />  
+  <img alt="GIF" src="https://github.com/NQT2906/NQT2906/blob/main/code.gif?raw=true" width="500" height="320" />  
 </p>
 
 ## 💻 Languages and tools:
@@ -44,15 +35,15 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
 
 ## 📈 My github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kira-UIT&show_icons=true&theme=gotham" alt="kira-uit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NQT2906&show_icons=true&theme=gotham" alt="NQT2906" />
 </p>
 <p align="center">
-  <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
-  <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
+  <img src="https://github.com/NQT2906/github-stats-kira/blob/master/generated/overview.svg">
+  <img src="https://github.com/NQT2906/github-stats-kira/blob/master/generated/languages.svg">
 </p>
 
 <!--
-**Kira-UIT/Kira-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NQT2906/NQT2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
